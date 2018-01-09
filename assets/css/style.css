@@ -1,0 +1,270 @@
+/*General Styling*/
+/*----------------------*/
+
+* {
+	box-sizing: border-box;
+}
+
+body {
+	border-radius: 50%;
+	background-size: 60%;
+	background-position: center;
+	background-attachment: fixed;
+	width: 1050px;
+	height:100%;
+	background: linear-gradient(-90deg, #ddd6f3, #faaca8);
+	position:relative;
+}
+
+/*div {
+	background: linear-gradient(#3a6186, #89253e);
+	border-radius:10%;
+	padding: 30px;
+	width: 40%;
+	margin-left: 308px;	
+	border: 3px double rgba(255, 255, 255, 1);
+
+}*/
+
+/*Image Style*/
+
+.img-container{
+	width:40%;
+	border-radius: 50%;
+	margin-right:auto;
+	margin-left: auto;
+}
+
+/*=========================*/
+
+/*Header style*/
+
+
+header {
+
+	width:100%;
+	margin-top:10px;
+	margin-bottom:10px;
+	color:rgba(255,255,255, 1);
+	text-align:center;
+}
+
+
+/*=========================*/
+
+/*Countdown style*/
+
+#display{
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	font-size:20px;
+}
+
+/*=========================*/
+
+/*Time is out message*/
+
+#timeout {
+	color:#fca402;
+	text-align: center;
+	margin-right: auto;
+	margin-left: auto;
+	font-size: 60px;
+	z-index:1;
+	position:absolute;
+}
+
+.hideTimeout {
+	display:none;
+}
+
+/*=========================*/
+	
+
+
+.img-background {
+	display:block;
+	border-radius: 50%;
+	border: 4px double;
+	width:60%;
+	margin-top:80px;
+	margin-right: auto;
+	margin-bottom:100px;
+	margin-left: auto;
+	
+
+
+}
+
+/*footer {
+
+/*Question styling*/
+
+/*======================================================+++++++++
+======================================================+++++++++
+======================================================+++++++++*/
+
+#question1,
+#question2,
+#question3,
+#question4,
+#question5,
+#question6 {
+	color: white;
+	width:60%;
+	margin-top:10px;
+	margin-right: auto;
+	margin-left: auto;
+	text-align: center;
+	margin-top:10px;
+
+
+}
+
+#question2,
+#question3,
+#question4,
+#question5,
+#question6 {
+	margin-top:40px;
+
+}
+
+#questionA,
+#questionB,
+#questionC {
+	background-color: transparent;
+	border: none;
+	color:white;
+	margin:8px;
+}
+
+#questionC {
+	margin-right:37px;
+
+}
+
+#questionD,
+#questionE,
+#questionF {
+	background-color: transparent;
+	border: none;
+	color:white;
+	margin:8px;
+}
+
+#questionE{
+	margin-right:26px;
+}
+
+
+#questionF {
+	margin-right:6px;
+
+}
+
+#questionG,
+#questionH,
+#questionI {
+	background-color: transparent;
+	border: none;
+	color:white;
+	margin:8px;
+}
+
+#questionG {
+	margin-right:-23px;
+}
+
+#questionH {
+	margin-right:-50px;
+}
+
+#questionI{
+	margin-right:-34px;
+
+}
+
+
+#questionJ,
+#questionK,
+#questionL {
+	background-color: transparent;
+	border: none;
+	color:white;
+	margin:8px;
+}
+
+#questionJ {
+	margin-right:80px;
+}
+
+#questionK {
+	margin-right:70px;
+}
+
+#questionL {
+	margin-right:86px;
+
+}
+
+#questionM,
+#questionN,
+#questionO {
+	background-color: transparent;
+	border: none;
+	color:white;
+	margin:8px;
+}
+
+#questionM {
+	margin-right:90px;
+}
+
+#questionN {
+	margin-right:60px;
+}
+
+#questionO {
+	margin-right:96px;
+}
+
+#questionP,
+#questionQ,
+#questionR {
+	background-color: transparent;
+	border: none;
+	color:white;
+	margin:8px;
+}
+
+#questionP {
+	margin-right:82px;
+}
+
+#questionQ {
+	margin-right:-8px;
+}
+
+#questionR {
+	margin-right:16px;
+	margin-bottom:60px;
+
+
+
+
+
+.fa.fa-circle-thin:hover {
+	transform: scale(2);
+	cursor: pointer;
+}
+
+
+/*======================================================+++++++++
+======================================================+++++++++
+======================================================+++++++++*/
+	
+
+
+
